@@ -47,3 +47,5 @@ title("FFT Magnitude Spectrum (Built-in)");
 
 
 # RESULT: 
+The DFT of the given sequence using Direct method and FFT method are obtained.
+Both methods give the same output spectrum, hence verified.
